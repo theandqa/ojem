@@ -1,0 +1,72 @@
+{
+    "owner": ["688702428509634598","602087236623794179","670012461537034255"],
+    "prefix": "e!",
+    "sunucuid": "727697270224715884",
+    "token":"NzAyOTg2ODU2OTgzMTY3MDc3.XqIBhw.MM4-dTt_wGtnF4GHRj1AwPwWODY",
+    "SunucuAdı":"Esula",
+    
+       "Ready": "Devotion Discord Bots",
+       "ReadyType": "WATCHING",
+       "ReadyStatus": "Online",
+       "BotReady": "Devotion Discord Bots",
+       "BotVoiceChannel": "727698119763951637",
+
+
+        "Link": "discord.gg/esula" ,    
+        "Tag": "☤",
+        "Tag2": "✶",
+
+        "İyigeceleremoji": "",
+        "BanEmoji": "<a:evett:767472917377712189>",
+        "MuteEmoji": "<a:evett:767472917377712189>",
+        "UnMuteEmoji": "<a:evett:767472917377712189>",
+        "CezaEmoji": "",
+        "MessageReactCheck": "<a:evett:767472917377712189>",
+        "MessageReactCross": "<:estickno:770706738089426975>",
+
+        "WelcomeLog": "727698113657176166",
+        "RegisterLog": "767473557113798686",
+        "BanLog": "793558862296776734",
+        "MuteLog": "727698167533011005",
+        "ability": "727698020669587477",
+        "VMuteLog": "727698167533011005",
+        "CezalıLog": "727698165226143866",
+        "TagLog": "793559152508272710",
+        "Chat": "727698141951950848",  
+        "Kurallarkanalı": "793559337481928755",   
+
+
+        "Erkek": ["727698058170859935", "727698060859408419"],
+        "Kadin": ["727698059277893742", "727698060045713449"],
+
+
+        "Tagrol": "727698054660096071",
+        "Devotion": "792767806008983593",
+        "Booster": "765997748632944651",
+        
+        "Unregister": "727698061668778034",
+        "Muted": "767517120862617642",
+        "Cezalı": "727698040781275277",
+        "Karantina":  "727698057180872786",
+        "YasaklıTagRol": "787876521212903454",
+
+        "RegisterYetki": "727698025878650921",
+        "BanYetki": "769235626519298088",
+        "CezalıYetki": "727698021512511581",
+        "MuteYetki": "727698023068467211",
+        "VMuteYetki":"727698023068467211",
+        "BotkomutYetki": "727698025878650921",
+
+        "lover":"727698063115681892",
+        "Terapist":"768235025777950772",
+        "Vocal": "727698050629501010",
+        "Müzisyen": "727698048985202801",
+        "Desing": "727698051724214322",
+        "Ressam": "727698049861812314",
+        "Şair":"727698052189782027",
+        "Yazılım": "727698048347537478",
+        "Streamer": "727698047521390679",
+        "Youtuber": "727698044858138635",      
+        "Telli": "793562686557388831",
+        "Uflemeli": "767492486243155998"
+}
